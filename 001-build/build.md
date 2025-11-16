@@ -14,18 +14,18 @@
 ## Install Ubuntu
 
 
-![](image/Pasted%20image%2020251113000552.png)
+![Install Ubuntu 1](/image/Pasted%20image%2020251113000552.png)
 
 
-![](image/Pasted%20image%2020251113000718.png)
+![Install Ubuntu 2](/image/Pasted%20image%2020251113000718.png)
 
 continue
 
-![](image/Pasted%20image%2020251113000836.png)
+![Install Ubuntu 3](/image/Pasted%20image%2020251113000836.png)
 
 kb layout unchange
 
-![](image/Pasted%20image%2020251113000927.png)
+![Install Ubuntu 4](/image/Pasted%20image%2020251113000927.png)
 
 ubuntu is installing
 
