@@ -1,6 +1,6 @@
 
 
-example: check what overwriting sound_effects_enabled value to 0 even if 1 in overlay -> ALPS.KK1.MP7.V1.7_HEXING72_CWET_KK'/frameworks/base/core/java/android/provider/Settings.java:
+example: check what overwriting sound_effects_enabled value to 0 even if 1 in overlay -> ALPS.KK1.MP7.V1.7_HEXING72_CWET_KK/frameworks/base/core/java/android/provider/Settings.java:
 
 
 ```
