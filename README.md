@@ -18,6 +18,8 @@
 
 * [uboot-logo-battery](/300-modify-build-boot/uboot-logo-battery.md)
 
+* [uboot-usb-fastboot](/300-modify-build-boot/uboot-usb-fastboot.md)
+
 # 400-modify-frameworks
 
 * [android-wica-bootanimation](/400-modify-frameworks/android-wica-bootanimation.md)
@@ -26,8 +28,6 @@
 
 * [ringtong_name](/400-modify-frameworks/ringtong_name.md)
 
-# 500-modify-apps
-
 # 900-good-pactice
 
 * [compress_logo](/900-good-pactice/compress_logo.md)
@@ -35,3 +35,4 @@
 # 910-libhwm-x86
 
 * [libhwm-x86](/910-libhwm-x86/libhwm-x86.md)
+

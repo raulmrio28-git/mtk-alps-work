@@ -15,15 +15,21 @@ def parse_folder(folder, roota):
     out = ""
     ### get folder name
     folder_name = os.path.basename(folder)
-    out += "# " + folder_name + "\n\n"
+    fc = 0
+    ft = ""
     #list folder
     for root, dirs, files in os.walk(folder):
         for file in files:
             if file.endswith(".md"):
+                fc += 1
                 ######converted path to /
                 path = os.path.join(root, file)
                 path = path.replace(roota, "").replace("\\", "/")
-                out += "* [" + file.replace(".md", "") + "](" + path + ")\n\n"
+                ft += "* [" + file.replace(".md", "") + "](" + path + ")\n\n"
+                
+    if fc > 0:
+        out += "# " + folder_name + "\n\n"
+        out += ft
     return out
 
 if __name__ == "__main__":
